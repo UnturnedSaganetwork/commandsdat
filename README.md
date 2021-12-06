@@ -18,7 +18,7 @@ Name: sunucunun adını ayarlama
 
 Map: Modlu ise Mapi sunucuya Yükleme sonra adını yazma
 
-Mode: sunucu zorluğu 
+Mode: sunucu zorluğu (easy,normal,hard)
 
 Perspective both: 3.bakış açısı 
 
