@@ -22,7 +22,8 @@ Mode: sunucu zorluğu (easy,normal,hard)
 
 Perspective both: 3.bakış açısı 
 
-Welcom: hoşgeldin mesaji
+Welcome: hoşgeldin mesaji
 
 Password: şifre
 
+cheats disable (enable,disable)
